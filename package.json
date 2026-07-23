@@ -23,7 +23,4 @@
     "node-cron": "^4.2.1"
   }
 }
-   "config": {
-     "registry": "https://registry.npm.taobao.org"
-   }
    
